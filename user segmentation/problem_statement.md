@@ -1,0 +1,1 @@
+Problem statement: to divide the users into different groups based on their usage
