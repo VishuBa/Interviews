@@ -1,5 +1,7 @@
 Explain a data science project that you worked on end to end
+
 gestimation question: how many credit cards per month are sold in bangalore
+
 Buisness question: what are the hypothesis that you would form for a decrease in revenue for amazon;
    -  sesonality 
    -  competition increase 
